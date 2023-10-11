@@ -1,0 +1,25 @@
+.navbar-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #909090;
+    padding: 12px;
+}
+
+.navbar-links {
+    display: flex;
+    justify-content: space-between;
+    width: 10%;
+    margin-left: 50px;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.navbar-dropdown {
+    cursor: pointer;
+    margin-right: 10px;
+}

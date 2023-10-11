@@ -1,0 +1,28 @@
+.item-card-container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 16%;
+    justify-content: center;
+    margin-top: 4%;
+}
+
+.img-fundo{
+    align-self: center;
+    width: 280px;
+}
+
+.img-container {
+    border-radius: 6px 6px 0px 0px ;
+}
+
+.produto-nome-container {
+    font-size: 17px;
+    align-content: inherit;
+}
+
+.preco-container {
+    font-size: 20px;
+    font-weight: bold;
+    color: green;
+}
